@@ -45,10 +45,10 @@ Parameter control for age bins\
 Responsive dashboard layout
 
 # Repository Structure
-├── hr_anslysis_tabb.twb        # Tableau workbook\
-├── HR-Employee-Attrition.xlsx  # Dataset\
+├── hr_anslysis_tabb.twb                    # Tableau workbook\
+├── HR-Employee-Attrition.xlsx              # Dataset\
 ├── images/\
-│   └── dashboard.png           # Dashboard screenshot\
+│   └── dashboard.png                       # Dashboard screenshot\
 └── README.md
 
 # How to Use
