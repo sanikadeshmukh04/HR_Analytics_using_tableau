@@ -35,5 +35,5 @@ To identify the key drivers and patterns behind employee attrition so HR and man
 
 # Tools Used
 
-Tableau Desktop (version 2025.3) \n
+Tableau Desktop (version 2025.3) \
 Microsoft Excel (data source)
