@@ -32,3 +32,8 @@ To identify the key drivers and patterns behind employee attrition so HR and man
 4.Active Employee: SUM(EmployeeCount) − SUM(Attrition Count)
 
 5.Age (bin) + Bin Size parameter: a user-adjustable bin size (2–10) for the age histogram.
+
+# Tools Used
+
+Tableau Desktop (version 2025.3) \n
+Microsoft Excel (data source)
