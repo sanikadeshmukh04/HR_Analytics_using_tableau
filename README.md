@@ -37,3 +37,24 @@ To identify the key drivers and patterns behind employee attrition so HR and man
 
 Tableau Desktop (version 2025.3) \
 Microsoft Excel (data source)
+
+# Interactivity
+
+**Filter actions:** click a department or chart segment to cross-filter all other visuals\
+Parameter control for age bins\
+Responsive dashboard layout
+
+# Repository Structure
+├── hr_anslysis_tabb.twb        # Tableau workbook
+├── HR-Employee-Attrition.xlsx  # Dataset
+├── images/
+│   └── dashboard.png           # Dashboard screenshot
+└── README.md
+
+# How to Use
+Clone or download this repository.\
+Place the Excel dataset in the project folder.\
+Open hr_anslysis_tabb.twb in Tableau Desktop.\
+If prompted, re-point the data source to your local Excel file.\
+Open the HR Analytics Dashboard tab and explore the filters.
+
