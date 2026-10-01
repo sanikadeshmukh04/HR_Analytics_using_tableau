@@ -21,3 +21,14 @@ To identify the key drivers and patterns behind employee attrition so HR and man
 **6.No. of Employees by Age Group:** a histogram of the workforce age distribution.
 
 **7.Attrition Rate by Gender across Age Groups:** a pie chart breaking down attrition by gender within each age band.
+
+# Calculated Fields
+1.Age Group: buckets employees into 18–30, 31–40, 41–50 and 51–60.
+
+2.Attrition Count: IF [Attrition] = 'Yes' THEN 1 ELSE 0 END
+
+3.Attrition Rate: SUM(Attrition Count) / SUM(EmployeeCount)
+
+4.Active Employee: SUM(EmployeeCount) − SUM(Attrition Count)
+
+5.Age (bin) + Bin Size parameter: a user-adjustable bin size (2–10) for the age histogram.
