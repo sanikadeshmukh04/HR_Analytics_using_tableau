@@ -52,9 +52,9 @@ Responsive dashboard layout
 └── README.md
 
 # How to Use
-Clone or download this repository.\
-Place the Excel dataset in the project folder.\
-Open hr_anslysis_tabb.twb in Tableau Desktop.\
-If prompted, re-point the data source to your local Excel file.\
-Open the HR Analytics Dashboard tab and explore the filters.
+**Step 1:** Clone or download this repository.\
+**Step 2:** Place the Excel dataset in the project folder.\
+**Step 3:** Open hr_anslysis_tabb.twb in Tableau Desktop.\
+**Step 4:** If prompted, re-point the data source to your local Excel file.\
+**Step 5:** Open the HR Analytics Dashboard tab and explore the filters.
 
