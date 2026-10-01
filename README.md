@@ -9,6 +9,7 @@ To identify the key drivers and patterns behind employee attrition so HR and man
 # The HR Analytics Dashboard combines seven worksheets:
 
 1.KPI Summary: headline metrics such as total employees, attrition count, attrition rate, active employees and average age.
+
 2.Attrition by Gender: compares attrition between male and female employees.
 3.Department-wise Attrition: a pie chart showing how attrition is distributed across departments.
 4.Education Field-wise Attrition: shows which educational backgrounds see the most turnover.
